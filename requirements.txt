@@ -5,4 +5,6 @@ catboost
 xgboost
 numpy
 pandas
+dill
+
 #-e .
